@@ -21,6 +21,7 @@ gem 'jbuilder', '1.0.2'
 gem 'haml-rails'
 gem "pg", "~> 0.17.1"
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby'
 
 group :doc do
   gem 'sdoc', '0.3.20', require: false
